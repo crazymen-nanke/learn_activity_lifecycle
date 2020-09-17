@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">learn_activity_lifecycle</string>
+    <string name="mainActivityButton1">跳转到NormalActivity</string>
+    <string name="mainActivityButton2">跳转到DialogActivity</string>
+    <string name="normalActivityTextView">NormalActivity</string>
+    <string name="DialogActivityTextView">This is DialogActivity</string>
+</resources>
