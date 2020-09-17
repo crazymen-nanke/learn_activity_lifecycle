@@ -1,0 +1,2 @@
+# learn_activity_lifecycle
+学习android中activity的lifecycle的Demo。
